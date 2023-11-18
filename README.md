@@ -1,1 +1,3 @@
 # Galleria-SASS-Class
+
+Repositório criado para realizar o projeto <b>Galleria</b>, com o objetivo de conhecer e aperfeiçoar o SASS.
