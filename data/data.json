@@ -2,55 +2,55 @@
   {
     "id": 1,
     "title": "Animals",
-    "src": "/animals.jpg",
+    "src": "/animals.avif",
     "text": "More Photos"
   },
   {
     "id": 2,
     "title": "Building",
-    "src": "/building.jpg",
+    "src": "/building.avif",
     "text": "More Photos"
   },
   {
     "id": 3,
     "title": "City",
-    "src": "/city.jpg",
+    "src": "/city.avif",
     "text": "More Photos"
   },
   {
     "id": 4,
     "title": "Coffee",
-    "src": "/coffee.jpg",
+    "src": "/coffee.avif",
     "text": "More Photos"
   },
   {
     "id": 5,
     "title": "Sport",
-    "src": "/sport.jpg",
+    "src": "/sport.avif",
     "text": "More Photos"
   },
   {
     "id": 6,
     "title": "Nature",
-    "src": "/nature.jpg",
+    "src": "/nature.avif",
     "text": "More Photos"
   },
   {
     "id": 7,
     "title": "Landscape",
-    "src": "/landscape.jpg",
+    "src": "/landscape.avif",
     "text": "More Photos"
   },
   {
     "id": 8,
     "title": "People",
-    "src": "/people.jpg",
+    "src": "/people.avif",
     "text": "More Photos"
   },
   {
     "id": 9,
     "title": "Meal",
-    "src": "/meal.jpg",
+    "src": "/meal.avif",
     "text": "More Photos"
   }
 ]
