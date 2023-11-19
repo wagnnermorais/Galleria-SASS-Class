@@ -1,8 +1,6 @@
 const gallery = document.getElementById("gallery");
 import data from "../data/data.json";
 
-console.log(data);
-
 data.forEach((item) => {
   const div = document.createElement("div");
   const title = document.createElement("h2");
