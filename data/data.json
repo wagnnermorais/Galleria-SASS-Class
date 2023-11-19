@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Animals",
+    "src": "/animals.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 2,
+    "title": "Building",
+    "src": "/building.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 3,
+    "title": "City",
+    "src": "/city.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 4,
+    "title": "Coffee",
+    "src": "/coffee.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 5,
+    "title": "Sport",
+    "src": "/sport.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 6,
+    "title": "Nature",
+    "src": "/nature.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 7,
+    "title": "Landscape",
+    "src": "/landscape.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 8,
+    "title": "People",
+    "src": "/people.jpg",
+    "text": "More Photos"
+  },
+  {
+    "id": 9,
+    "title": "Meal",
+    "src": "/meal.jpg",
+    "text": "More Photos"
+  }
+]
